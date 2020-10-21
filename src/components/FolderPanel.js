@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import MessageItem from "./MessageItem";
 import MessageTeaser from "./MessageTeaser";
 
